@@ -1,0 +1,34 @@
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(42518) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(15) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(15) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1054) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1229) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1245) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1256) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1268) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1279) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1290) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1302) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1416) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1500) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1555) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1683) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1691) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1713) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(1768) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(2110) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(2401) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(2412) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(2426) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(2450) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(2497) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(2512) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(2638) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+c:\Users\THANG11438\Desktop\gm\gamemodes\includes\NGG.pwn(2651) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.
